@@ -1,3 +1,3 @@
 # Student-1
 
-pugak ka
+test 1
